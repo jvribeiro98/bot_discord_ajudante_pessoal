@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "pg": "^8.10.0"
+  },
+  "name": "bot_discord_multi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joao Vitor Sousa Ribeiro",
+  "license": "ISC",
+  "description": "bot_de_uso_variado"
+}

@@ -1,0 +1,12 @@
+Para iniciar:
+abra o terminal e escreva 
+npm install 
+------------
+altere o arquivo exemple.env para .env 
+coloco a informação no seu bot dentro desse arquivo 
+------------
+logo apos somente escreva e envie no terminal 
+npm start 
+------------
+bot criado para algumas funções basicas, mas pode ser facilmente editado
+pode adiconar mais bibliotecas no seu repertorio
